@@ -1,0 +1,14 @@
+{
+    "name": "base-info-scripts",
+    "type": "module",
+    "scripts": {
+        "start": "tsx status.ts"
+    },
+    "dependencies": {
+        "tsx": "4.21.0",
+        "viem": "2.45.1"
+    },
+    "devDependencies": {
+        "@types/node": "^25.2.0"
+    }
+}
